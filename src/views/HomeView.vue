@@ -10,8 +10,8 @@
 
     <section id="card-list" role="list">
 
-      <HelloWorld msg="Add your cads here" />
-      
+      <HelloWorld msg="Show your cards here" />
+
     </section>
 
   </main>
